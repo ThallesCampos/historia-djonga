@@ -22,6 +22,10 @@ h1 {
     font-size: 40px;
 }
 
+li {
+    padding: 5px;
+}
+
 #primeira-img {
     width: 300px;
     margin: 10px 0px 0px 0px;
@@ -51,6 +55,10 @@ p {
 a {
     padding: 10px;
     color: aquamarine;
+}
+
+.redirecionar {
+    color: rgb(5, 5, 5);
 }
 
 hr {
